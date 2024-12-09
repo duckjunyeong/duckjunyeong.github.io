@@ -2,14 +2,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: JunYeong
 logo:
-author: themefisher
+author: JunYeong
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+email: whwnsdud4592@naver.com
+phone: +82 010 5401 4592
+address: Yangsan, South Korea 
+copyright: Copyright &copy;
 
 menu:
   - { name: About, link: "/about" }
@@ -149,20 +149,8 @@ education:
 services-title: Services
 services:
   - {
-      name: UI Design,
+      name: oss_Project,
       icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
-    }
-  - {
-      name: UX Design,
-      icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: true, # Add true to select section
-    }
-  - {
-      name: Interaction Design,
-      icon: ti-panel,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       active: ,# Add true to select section
     }
@@ -173,76 +161,18 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-
-  - image: "assets/images/portfolio/item-2.png"
-    url: "#"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-
-  - image: "assets/images/portfolio/item-4.png"
-    url: "#"
-
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
+    url: "https://github.com/duckjunyeong/oss_project"
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "computer ", type: "design" }
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "https://github.com/duckjunyeong/oss_project"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
-
-  - image: "assets/images/portfolio/item-2.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-
-  - image: "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-
+      - type: "project"
+      - type: "oss_project"
 #-------------------------------
 # Testimonials Section
 
